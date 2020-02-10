@@ -1,0 +1,17 @@
+.page-footer {
+  background: #99d9ea;
+}
+
+.footer-copyright {
+  background-color: #68acbe;
+}
+
+p,
+a {
+  color: #000;
+}
+
+h5,
+div {
+  color: rgb(9, 21, 43);
+}
