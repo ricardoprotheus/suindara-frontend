@@ -1,6 +1,16 @@
 # SuindaraFrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/SharebookBR/suindara-frontend">
+    <img src="./src/assets/proposta1.png" alt="Logo">
+  </a>
+
+  <h3 align="center">Suindara Foundation</h3>
+</p>
+
+Projeto gerado com o Angular CLI [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
 
 ## Development server
 
